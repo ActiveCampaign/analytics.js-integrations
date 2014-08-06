@@ -4,6 +4,7 @@
  */
 
 module.exports = [
+  require('./lib/activecampaign'),
   require('./lib/adroll'),
   require('./lib/adwords'),
   require('./lib/alexa'),
